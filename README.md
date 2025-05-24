@@ -2,7 +2,7 @@
 A simple travel website with HTML and CSS ( the first version )
 
 # Components
-## HTML
-## CSS 
+- HTML
+- CSS 
 
 
